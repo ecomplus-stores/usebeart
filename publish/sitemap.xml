@@ -56,12 +56,6 @@
     </url>
   
     <url>
-      <loc>https://usebeart.netlify.app/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://usebeart.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -71,6 +65,12 @@
       <loc>https://usebeart.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://usebeart.netlify.app/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
